@@ -19,4 +19,4 @@ UREKU（ウレク）
 
 - [プライバシーポリシー](privacy.md)
 - [利用規約](terms.md)
-- お問い合わせ（準備中）
+- [お問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSfHYAsnueoI75e5rkgEfgnJLNZjqtdSE-zHSmS23f9XOiqROA/viewform?usp=dialog)
